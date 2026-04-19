@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "my_footprints")(type "KiCad")(uri "${KIPRJMOD}/my_lib/my_footprints")(options "")(descr ""))
+  (lib (name "my_3D")(type "KiCad")(uri "${KIPRJMOD}/my_lib/my_3D")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "C:/Users/MrRobot/Desktop/new git acc/KiCad projs/logo")(options "")(descr ""))
 )
